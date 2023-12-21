@@ -20,7 +20,7 @@ const Me = () => (
                 <div className="md:w-1/2">
                     <h3 className="text-xl  font-semibold mb-4">Biographie</h3>
                     <p className="text-justify">
-                        Etudiant en troisième année de B.U.T Informatique, je suis développeur web Full-Stack. J'ai depuis développé plusieurs projets personnels et professionnels. Je vous invite à les découvrir
+                        Etudiant en troisième année de B.U.T Informatique, je suis développeur web Full-Stack. J&aposai depuis développé plusieurs projets personnels et professionnels. Je vous invite à les découvrir
                     </p>
                     {/* Vous pouvez continuer votre biographie ou ajouter d'autres éléments ici */}
                 </div>
