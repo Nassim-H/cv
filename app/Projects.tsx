@@ -7,7 +7,7 @@ const Projects = () => (
                 <div className="bg-white shadow-md rounded-lg p-6 transition duration-300 hover:shadow-white hover:scale-105">
                     <h2 className="text-2xl text-gray-700 font-bold mb-3">Portfolio</h2>
                     <p className="text-gray-600 mb-5">
-                        Premier Portfolio développé avec l&aposaide de Bootstrap.
+                        Premier Portfolio développé avec l&#39;aide de Bootstrap.
                     </p>
                     <a href="https://github.com/Nassim-H/Portfolio" target="_blank" className="text-blue-500 hover:text-blue-600 transition duration-300">
                         Lien GitHub &rarr;
