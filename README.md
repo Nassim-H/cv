@@ -70,8 +70,6 @@ Cela permet une charge de serveur réduite : En prégénérant les pages au mome
 - [x] **Utiliser le chargement partiel d'une zone de contenu** : Le site est fait avec des composants React.
 
 
-- [x] **Hébergement** : Hébergement sur un serveur mutualisé, avec un hébergeur vert.
-
 ## Résumé
 Beaucoup d'éléments de la checklist n'ont pas été ajouté, car ils reprennent souvent les mêmes éléments (base de données, images...). 
 Bien entendu, le site ne peut se vanter d'une parfaite optimisation, mais il a été conçu avec le plus grand soin afin de réduire son impact écologique.
