@@ -1,6 +1,6 @@
 
 # Portfolio écologique 
-Avec Next.JS X Tailwind, 
+Avec Next.JS, 
 
 Développé par Nassim Hassain
 
