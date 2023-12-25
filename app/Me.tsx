@@ -1,6 +1,6 @@
 const Me = () => (
     <section id="apropos" className="p-10 ">
-        <div className="container mx-auto px-4">
+        <div className="container mx-auto px-4 my-10" >
             <h2 className="text-3xl font-bold text-center mb-10">À Propos de Moi</h2>
 
             <div className="md:flex md:space-x-6">
@@ -20,7 +20,7 @@ const Me = () => (
                 <div className="md:w-1/2">
                     <h3 className="text-xl  font-semibold mb-4">Biographie</h3>
                     <p className="text-justify">
-                        Etudiant en troisième année de B.U.T Informatique, je suis développeur web Full-Stack. J&aposai depuis développé plusieurs projets personnels et professionnels. Je vous invite à les découvrir
+                        Etudiant en troisième année de B.U.T Informatique, je suis développeur web Full-Stack. J&#39;ai depuis développé plusieurs projets personnels et professionnels. Je vous invite à les découvrir
                     </p>
                     {/* Vous pouvez continuer votre biographie ou ajouter d'autres éléments ici */}
                 </div>

@@ -4,7 +4,6 @@ import Me from "@/app/Me";
 import Projects from "@/app/Projects";
 import Contact from "@/app/Contact";
 import Footer from "@/app/Footer";
-import Ambitious from "@/app/Ambitious";
 
 
 export default function Page() {
@@ -19,15 +18,14 @@ export default function Page() {
             </Head>
 
 
-            <main className="container mx-auto max-w-6xl text-center">
-                <Home/>
-                <Me/>
-                <Projects/>
-                <Ambitious/>
-                <Contact/>
-                <Footer/>
-
+            <main className="container mx-auto max-w-6xl text-center space-y-4">
+                <Home />
+                <Me />
+                <Projects />
+                <Contact />
+                <Footer />
             </main>
+
         </div>
     )
 }

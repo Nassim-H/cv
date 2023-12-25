@@ -8,7 +8,12 @@ Développé par Nassim Hassain
 L'objectif de ce portfolio est de mettre en pratique les techniques de développement écologique. 
 En effet, le web est un des secteurs les plus polluants au monde, et l'évolution de la technologie ne fait qu'augmenter cette pollution.
 
-Voici donc une checklist des techniques utilisées pour réduire l'impact écologique de ce site web, repris du collectif https://collectif.greenit.fr.
+Nous allons premièrement voir en quoi le framework Next.JS permet de réduire l'impact écologique d'un site web, puis nous allons visualiser une checklist des techniques utilisées pour réduire l'impact écologique de ce site web, repris du collectif https://collectif.greenit.fr.
+
+
+## Next.JS
+Next.js est un framework React populaire qui facilite la création d'applications avec rendu serveur à l'aide de JavaScript moderne. L'un des principaux avantages de Next.js est sa prise en charge du rendu de site statique, ce qui signifie que les pages sont pré-générées au moment de la construction et servies en tant qu'actifs statiques.
+Cela permet une charge de serveur réduite : En prégénérant les pages au moment de la construction, le serveur n'a pas besoin de générer du contenu à la volée, ce qui peut consommer beaucoup d'énergie. Cela signifie que les applications Next.JS ne sont pas seulement plus rapides, mais qu'elles nécessitent également moins de ressources serveur et que leur empreinte carbone est plus faible.
 
 ## Cheklist
 - [x] **Conception** : Conception d'un site web statique, sans base de données, sans CMS, sans Javascript, sans publicité, sans CDN, sans fontes externes, sans vidéos,  sans images, sans SVG.
