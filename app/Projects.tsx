@@ -27,11 +27,11 @@ const Projects = () => (
                 </div>
 
                 <div className="bg-white shadow-md rounded-lg p-6 transition duration-300 hover:shadow-white hover:scale-105">
-                    <h2 className="text-2xl text-gray-700 font-bold mb-3">Blog de films</h2>
+                    <h2 className="text-2xl text-gray-700 font-bold mb-3">Site de collection dejeux</h2>
                     <p className="text-gray-600 mb-5">
-                        Site développé avec Flask contenant une base de données de critiques de films
+                        Site de mise en ligne de jeu développé en cours, je me suis chargé de toute la partie back-end, API Laravel
                     </p>
-                    <a href="https://github.com/Nassim-H/airports" target="_blank" className="text-blue-500 hover:text-blue-600 transition duration-300">
+                    <a href="hhttps://github.com/Nassim-H/api-games" target="_blank" className="text-blue-500 hover:text-blue-600 transition duration-300">
                         Lien GitHub &rarr;
                     </a>
                 </div>
